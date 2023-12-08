@@ -16,5 +16,13 @@
 <br /> <!-- Add a line break to move the next content down -->
 <br /> <!-- Add a line break to move the next content down -->
 <br /> <!-- Add a line break to move the next content down -->
+<br /> <!-- Add a line break to move the next content down -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderm1ntyx&show_icons=true&theme=dark&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&locale=en&layout=compact" alt="coderm1ntyx" /></p>
+
+<br /> <!-- Add a line break to move the next content down -->
+<br /> <!-- Add a line break to move the next content down -->
+<br /> <!-- Add a line break to move the next content down -->
+<br /> <!-- Add a line break to move the next content down -->
+
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=coderm1ntyx&theme=dark" alt="coderm1ntyx" /></p>
