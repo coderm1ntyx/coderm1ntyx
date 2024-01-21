@@ -25,4 +25,4 @@
 <br /> <!-- Add a line break to move the next content down -->
 <br /> <!-- Add a line break to move the next content down -->
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=coderm1ntyx&theme=dark" alt="coderm1ntyx" /></p> <!-- Streak 
+<!-- <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=coderm1ntyx&theme=dark" alt="coderm1ntyx" /></p> <!-- Streak -->
