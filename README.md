@@ -1,10 +1,8 @@
 <h3 align="center">Discord Bots Developer, Junior Front-End Developer</h3>
 
-- ⚡ My discord [⚡ My discord](https://discordapp.com/users/1122241853773840425)
+- [⚡ My discord](https://discordapp.com/users/1122241853773840425)
 
-- ⚡ Telegram Channel [⚡ Telegram Channel](https://t.me/m1ntyx_dev)
-
-- ⚡ Discord Server [⚡ Discord Server](https://discord.gg/nightmess)
+- [⚡ Telegram Channel](https://t.me/m1ntyx_dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
