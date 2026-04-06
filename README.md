@@ -1,4 +1,4 @@
-<h3 align="center">Discord Bots Developer, Junior Front-End Developer</h3>
+<h3 align="center">Full-Stack Developer | Web, Mobile & Discord Applications</h3>
 
 - [⚡ My discord](https://discordapp.com/users/1122241853773840425)
 
