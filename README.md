@@ -1,38 +1,67 @@
-<h3 align="center">Full-Stack Developer | Web, Mobile & Discord Applications</h3>
+<h1 align="center">Hi, I'm Luka 👋</h1>
 
-- [⚡ My discord](https://discordapp.com/users/1122241853773840425)
+<h3 align="center">
+Full-Stack Developer building modern web, mobile & AI-powered applications
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="supabase" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
+<p align="center">
+I build fast, scalable products with a focus on performance, modern UI and exceptional user experience.
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderm1ntyx&theme=dark" alt="coderm1ntyx" />
+<p align="center">
+  <a href="https://imluka.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f2937" />
+  </a>
+  <a href="https://discordapp.com/users/1122241853773840425">
+    <img src="https://img.shields.io/badge/Discord-Luka-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f2937" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- Full-stack developer focused on modern SaaS products
+- Building production-ready websites, dashboards and mobile apps
+- Passionate about UI/UX, animations and clean architecture
+- Experience with AI integrations, Discord bots and automation
+- Always learning new technologies and improving existing products
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,supabase,swift,tailwind,figma,git,vscode" />
+
+</p>
+
+---
+
+## Current Focus
+
+- Modern React & TypeScript applications
+- iOS development with Swift
+- AI-powered products
+- Dashboard & SaaS interfaces
+- Backend APIs and scalable architectures
+- Discord applications
+
+---
+
+## Featured Projects
+
+### Horizolve
+Discord platform featuring moderation, leveling, economy, automation and a modern management dashboard.
+
+### Slip
+AI-powered receipt scanner and expense tracker with analytics, smart categorization and modern mobile experience.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderm1ntyx&theme=github-dark-blue&hide_border=true"/>
 </p>
